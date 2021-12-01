@@ -1,4 +1,5 @@
 .~lock.report.odt#
-code/data/gene2go.gz
-code/data/gene2go
+code/data/archive/gene2go.gz
+code/data/archive/gene2go
+code/data/gene2go.pickle
 code/data/.~lock.task3-2-MCL-clusters.tsv#
