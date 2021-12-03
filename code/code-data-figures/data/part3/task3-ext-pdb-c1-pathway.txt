@@ -1,0 +1,11 @@
+1	Gonadotropin-releasing hormone receptor pathway (P06664)	3	6.4%	11.5%
+2	p53 pathway (P00059)	4	8.5%	15.4%
+3	Huntington disease (P00029)	3	6.4%	11.5%
+4	Wnt signaling pathway (P00057)	5	10.6%	19.2%
+5	Hypoxia response via HIF activation (P00030)	1	2.1%	3.8%
+6	Transcription regulation by bZIP transcription factor (P00055)	3	6.4%	11.5%
+7	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway (P00026)	2	4.3%	7.7%
+8	Hedgehog signaling pathway (P00025)	1	2.1%	3.8%
+9	General transcription regulation (P00023)	1	2.1%	3.8%
+10	TGF-beta signaling pathway (P00052)	2	4.3%	7.7%
+11	General transcription by RNA polymerase I (P00022)	1	2.1%	3.8%

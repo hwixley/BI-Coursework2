@@ -1,0 +1,19 @@
+1	developmental process (GO:0032502)	26	12.0%	5.2%
+2	multicellular organismal process (GO:0032501)	32	14.7%	6.4%
+3	cellular process (GO:0009987)	133	61.3%	26.4%
+4	reproduction (GO:0000003)	3	1.4%	0.6%
+5	localization (GO:0051179)	44	20.3%	8.7%
+6	reproductive process (GO:0022414)	3	1.4%	0.6%
+7	multi-organism process (GO:0051704)	1	0.5%	0.2%
+8	biological adhesion (GO:0022610)	12	5.5%	2.4%
+9	immune system process (GO:0002376)	5	2.3%	1.0%
+10	biological regulation (GO:0065007)	79	36.4%	15.7%
+11	growth (GO:0040007)	2	0.9%	0.4%
+12	signaling (GO:0023052)	41	18.9%	8.2%
+13	metabolic process (GO:0008152)	68	31.3%	13.5%
+14	interspecies interaction between organisms (GO:0044419)	2	0.9%	0.4%
+15	response to stimulus (GO:0050896)	40	18.4%	8.0%
+16	biological phase (GO:0044848)	2	0.9%	0.4%
+17	behavior (GO:0007610)	1	0.5%	0.2%
+18	rhythmic process (GO:0048511)	1	0.5%	0.2%
+19	locomotion (GO:0040011)	8	3.7%	1.6%
